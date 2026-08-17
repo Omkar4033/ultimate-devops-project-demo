@@ -1,0 +1,3 @@
+# Install only what you need for the provider(s) you plan to use.
+anthropic>=0.40.0
+openai>=1.50.0
